@@ -10,7 +10,7 @@ function intentoDeFuncion() {
 
 //------------
 
-/*let numeroSecreto = 0;
+let numeroSecreto = 0;
 let intentos = 1;
 let listaNumeroSorteado = [];
 let numeromaximo = 10;
@@ -106,7 +106,6 @@ function reiniciarJuego(){
 }
 
 condicionesInicial()
-*/
 
 //-------------
 
@@ -246,4 +245,5 @@ mostrarLista()*/
 
 let numeros = [10, 20, 30, 40, 50];
 let media = calcularMedia(numeros);
+
 console.log('Média:', media);*/
